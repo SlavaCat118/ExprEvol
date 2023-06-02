@@ -3,4 +3,4 @@ http://www.karlsims.com/papers/siggraph91.html | implemented with Python and GMI
 
 # howto
 - Download both .py files and run expression.py
-- Past the returned GMIC command into a gmic command prompt
+- Paste the returned GMIC command into a gmic command prompt
